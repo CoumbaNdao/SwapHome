@@ -1,6 +1,6 @@
 package controller;
 
-import model.Model;
+import model.Modelpays;
 
 import java.util.ArrayList;
 
@@ -10,15 +10,15 @@ public class Controller {
         //On teste la validité des données
 
         //On appelle le Model pour l'insertion
-        Model.insertPays(unPays);
+        Modelpays.insertPays(unPays);
     }
 
     public static ArrayList<Pays> selectAllPays(){
-        return Model.selectAllPays();
+        return Modelpays.selectAllPays();
     }
 
     public static Pays selectWherePays(int codepays){
-        return Model.selectWherePays(codepays);
+        return Modelpays.selectWherePays(codepays);
     }
 
     public static void deletePays (int codepays)
@@ -26,7 +26,7 @@ public class Controller {
         //On teste la validité des données
 
         //On appelle le Model pour l'insertion
-        Model.deletePays(codepays);
+        Modelpays.deletePays(codepays);
     }
 
     public static void updatePays (Pays unPays)
@@ -34,7 +34,7 @@ public class Controller {
         //On teste la validité des données
 
         //On appelle le Model pour l'insertion
-        Model.updatePays(unPays);
+        Modelpays.updatePays(unPays);
     }
 
 }

@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 
-public class Model {
+public class Modelpays {
 	 private static Bdd uneBdd = new Bdd("localhost", "ilios", "coumba", "mamemame");
 	    public static void insertPays (Pays unPays)
 	    {

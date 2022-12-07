@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b561471d-6df9-492b-b35d-33baa621d033" name="Changes" comment="" />
+    <list default="true" id="b561471d-6df9-492b-b35d-33baa621d033" name="Changes" comment="WIP : CRUD">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/controller/Localite.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/controller/Localite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/controller/Logement.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/controller/Logement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/model/Model.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/Localite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Localite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/Logement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Logement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/admin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/home.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +21,12 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IEXUUpse2fdcfuXQLUA39qgqxX" />
   <component name="ProjectViewState">
@@ -20,12 +38,27 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/MameCoumbaNDAO/Desktop/JEE/SwapHome/src",
+    "last_opened_file_path": "C:/Users/MameCoumbaNDAO/Desktop/JEE/SwapHome",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SwapHome" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SwapHome" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,10 +68,22 @@
       <option name="presentableId" value="Default" />
       <updated>1669747731201</updated>
       <workItem from="1669747732479" duration="463000" />
+      <workItem from="1670404870401" duration="277000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

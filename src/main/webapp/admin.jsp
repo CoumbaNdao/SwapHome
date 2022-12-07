@@ -10,6 +10,7 @@
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
 <title>Admin SwapHome</title>
 </head>
+
 <body>
 <center>
 <img alt="#" src="images/home.png" height="100" width="100">

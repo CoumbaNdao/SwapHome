@@ -78,7 +78,7 @@
     <b class="comment-a-marche5">Comment ça marche</b>
     <b class="prix-b4">Prix</b>
     <div class="frame-div128" id="frameContainer7">
-      <b class="connexion-b2">Connnexion</b>
+      <b class="connexion-b2" href ="admin.jsp">Connnexion</b>
     </div>
   </div>
   <div class="frame-div129">
