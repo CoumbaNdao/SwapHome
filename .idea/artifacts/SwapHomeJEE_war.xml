@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SwapHomeJEE:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SwapHomeJEE</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SwapHomeJEE-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SwapHomeJEE:war exploded" />
+    </root>
+  </artifact>
+</component>
