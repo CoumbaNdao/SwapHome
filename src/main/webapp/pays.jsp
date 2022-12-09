@@ -26,7 +26,7 @@
  	Pays unPays = new Pays(nompays);
  	
  	Controller.insertPays(unPays);
- 	out.print("<br> Insertion réussie");
+	 System.out.println("<br> Insertion réussie");
  }
 
 if (request.getParameter("Modifier") != null)
@@ -38,7 +38,7 @@ if (request.getParameter("Modifier") != null)
 	Pays unPays = new Pays (codepays, nompays); 
 //appel du controleur pour execute l'insertion
 	Controller.updatePays(unPays);
-out.print("<br /> Modification réussie"); 
+	System.out.println("<br /> Modification réussie");
 }
 
 
